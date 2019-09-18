@@ -19,5 +19,6 @@ int main()
 				<< "Period  7: Prep" << std::endl
 				<< "Period  8: House" << std::endl
 				<< "Period  9: Tech Support" << std::endl
-				<< "Period 10: Prep" << std::endl;
+				<< "Period 10: Prep" << std::endl
+				<< "Leave for the day";
 }
